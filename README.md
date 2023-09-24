@@ -1,5 +1,5 @@
 
-](https://www.google.com/search?q=computer+background+image&tbm=isch&ved=2ahUKEwjt1LbfssOBAxX27LsIHYaSCfIQ2-cCegQIABAA&oq=comp+background+image&gs_lcp=CgNpbWcQARgAMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB46BAgjECc6BwgAEBMQgAQ6CAgAEAcQHhATOgYIABAFEB46BggAEAgQHlDMCliMEWDCJWgAcAB4AIABwAGIAdgFkgEDMC41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=bz8QZa3hCPbZ7_UPhqWmkA8&bih=729&biw=1519&hl=tr#imgrc=tKmXyB64qAaU3M)https://www.google.com/search?q=computer+background+image&tbm=isch&ved=2ahUKEwjt1LbfssOBAxX27LsIHYaSCfIQ2-cCegQIABAA&oq=comp+background+image&gs_lcp=CgNpbWcQARgAMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB46BAgjECc6BwgAEBMQgAQ6CAgAEAcQHhATOgYIABAFEB46BggAEAgQHlDMCliMEWDCJWgAcAB4AIABwAGIAdgFkgEDMC41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=bz8QZa3hCPbZ7_UPhqWmkA8&bih=729&biw=1519&hl=tr#imgrc=tKmXyB64qAaU3M
+https://picsum.photos/seed/picsum/200/300
 
 <h1 align="center">Hi 👋, I'm Evren Oğul</h1>
 <h3 align="center">A passionate Jr frontend developer from Turkey</h3>
