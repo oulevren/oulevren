@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Fcomputer&psig=AOvVaw34I4fjMRA1xN_hQJyojjET&ust=1695650040081000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDRn-Syw4EDFQAAAAAdAAAAABAK)
+
 
 <h1 align="center">Hi 👋, I'm Evren Oğul</h1>
 <h3 align="center">A passionate Jr frontend developer from Turkey</h3>
